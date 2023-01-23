@@ -2,7 +2,8 @@
 The hub location where scientific articles will be placed
 
 After cloning github or forking please 
-npm install
+
+"npm install"
 
 In the project directory, you can run:
 
